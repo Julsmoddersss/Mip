@@ -1,0 +1,28 @@
+{
+  "name": "MiniJulscito",
+  "version": "2.0.0",
+  "description": "Bot creado desde cero",
+  "main": "node index.js",
+  "dependencies": {
+"@whiskeysockets/baileys" : "^6.5.0",
+"cfonts" : "^3.2.0",
+"chalk" : "^4.1.2",
+"awesome-phonenumber": "^6.4.0",
+"moment-timezone" : "^0.5.34",
+"fluent-ffmpeg" : "^2.1.2",
+"node-webpmux": "3.1.1",
+    "@vitalets/google-translate-api": "^9.2.0",
+"fluent-ffmpeg" : "^2.1.2",
+"child_process": "^1.0.2",
+"qrcode-terminal" : "^0.12.0",
+"request": "^2.88.2",
+"cheerio": "^1.0.0-rc.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Juls Modders",
+  "license": "ISC"
+}
+
